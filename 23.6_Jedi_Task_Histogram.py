@@ -9,10 +9,10 @@ average = np.mean(dataset)
 standev = np.std(dataset)
 
 You will create vertical lines at the mean, at +2 standard deviations above the mean 
-and -2 standard deviations below the mean. To create a vertical line research (axvline).
+and -2 standard deviations below the mean. To create a vertical line, research (axvline).
 
-Incorporate those values into the title. The Greek letters (mu) and (sigma) stand 
-for mean and standard deviation respectively. Research how to get those Greek letters
+Incorporate the mean and standard deviation into the title. The Greek letters (mu) and (sigma) stand 
+for mean and standard deviation respectively. Research how to get those Greek letters (Math Text)
 into the title.
 
 Here is the data that needs to be used:
