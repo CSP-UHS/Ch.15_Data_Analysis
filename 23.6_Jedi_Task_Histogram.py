@@ -16,7 +16,10 @@ for mean and standard deviation respectively. Research how to get those Greek le
 into the title.
 
 Here is the data that needs to be used:
-ages = [22,55,62,45,21,22,34,42,42,4,99,102,110,120, 121,122,130,111,115,112,80,75,65,54,44,43,42,48]
+ages = [22,55,62,45,21,22,34,42,42,4,99,102,110,120,
+        121,122,130,111,115,112,80,75,65,54,44,43,42,48,170]
+        
+You need to determine your bins.
 '''
 import matplotlib.pyplot as plt
 
